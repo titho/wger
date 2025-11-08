@@ -89,3 +89,4 @@ venv-wger
 
 # macOS
 .DS_Store
+voice-ingestion/.env
